@@ -11,13 +11,13 @@
         "README.md": true,
         "env": false
     },
-    "explorerExclude.backup": null,
     "python.pythonPath": "env\\Scripts\\python.exe",
     "cSpell.language": "pl,en",
     "terminal.integrated.defaultProfile.windows": "cmd (migrated)",
     "python.terminal.activateEnvironment": true,
     "python.terminal.executeInFileDir": false,
     "terminal.integrated.environmentChangesIndicator": "on",
-    "files.encoding": "utf8"
-
+    "files.encoding": "utf8",
+    "python.linting.enabled": true,
+    "editor.formatOnSave": true
 }

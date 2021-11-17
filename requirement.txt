@@ -10,3 +10,4 @@ prompt-toolkit==3.0.22
 Pygments==2.10.0
 traitlets==5.1.1
 wcwidth==0.2.5
+autopep8
