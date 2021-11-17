@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        ".history/**": true,
+        "LICENSE": true,
+        "README.md": true
+    },
+    "explorerExclude.backup": null,
+    "python.pythonPath": "C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.240.0_x64__qbz5n2kfra8p0\\python3.10.exe",
+    "cSpell.language": "pl,en",
+    "terminal.integrated.defaultProfile.windows": "cmd (migrated)"
+}

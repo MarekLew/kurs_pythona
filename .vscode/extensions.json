@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "ms-ceintl.vscode-language-pack-pl",
+        "streetsidesoftware.code-spell-checker-polish",
+        "ms-python.python",
+        "dongli.python-preview",
+        "himanoa.python-autopep8",
+        "coenraads.bracket-pair-colorizer-2",
+        "ms-python.vscode-pylance",
+        "littlefoxteam.vscode-python-test-adapter"
+    ]
+}
