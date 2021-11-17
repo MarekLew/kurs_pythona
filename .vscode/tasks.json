@@ -11,7 +11,7 @@
         {
             "label": "pip install",
             "type": "shell",
-            "command": "env\\Scripts\\pip install "
+            "command": "env\\Scripts\\pip install -r requirement.txt"
         }
     ]
 }
