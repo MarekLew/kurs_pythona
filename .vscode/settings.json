@@ -8,10 +8,15 @@
         "**/Thumbs.db": true,
         ".history/**": true,
         "LICENSE": true,
-        "README.md": true
+        "README.md": true,
+        "env": false
     },
     "explorerExclude.backup": null,
-    "python.pythonPath": "C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.240.0_x64__qbz5n2kfra8p0\\python3.10.exe",
+    "python.pythonPath": "env\\Scripts\\python.exe",
     "cSpell.language": "pl,en",
-    "terminal.integrated.defaultProfile.windows": "cmd (migrated)"
+    "terminal.integrated.defaultProfile.windows": "cmd (migrated)",
+    "python.terminal.activateEnvironment": true,
+    "python.terminal.executeInFileDir": false,
+    "terminal.integrated.environmentChangesIndicator": "on"
+
 }
