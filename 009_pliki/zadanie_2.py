@@ -1,0 +1,1 @@
+"jeśli to możesz nie to jest przeczytać najlepszy to sposób coś na poszło ukrycie nie wiadomości tak"
