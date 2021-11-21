@@ -1,4 +1,4 @@
-from magia import * 
+#from magia import print # magiczne modyfikacja print 
 print(len('to jest łańcuch testowy'))
 pass
 

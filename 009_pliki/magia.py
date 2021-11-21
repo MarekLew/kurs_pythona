@@ -3,4 +3,5 @@ _print = print
 
 def print(*arg, **kwarg):
     _print(*arg, **kwarg)
-    breakpoint()
+    if __debug__:
+        breakpoint
