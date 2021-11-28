@@ -19,5 +19,9 @@
     "terminal.integrated.environmentChangesIndicator": "on",
     "files.encoding": "utf8",
     "python.linting.enabled": true,
-    "editor.formatOnSave": true
+    "editor.formatOnSave": false,
+    "cSpell.words": [
+        "frozenset"
+    ],
+    "jupyter.jupyterServerType": "local"
 }
