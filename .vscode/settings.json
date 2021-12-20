@@ -13,7 +13,7 @@
     },
     "python.pythonPath": "env\\Scripts\\python.exe",
     "cSpell.language": "pl,en",
-    "terminal.integrated.defaultProfile.windows": "cmd (migrated)",
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
     "python.terminal.activateEnvironment": true,
     "python.terminal.executeInFileDir": false,
     "terminal.integrated.environmentChangesIndicator": "on",
